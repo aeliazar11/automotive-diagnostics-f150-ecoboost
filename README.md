@@ -53,7 +53,3 @@ This repository contains end-to-end diagnostic engineering studies, empirical te
 
 ---
 
-##  How to Run the MATLAB Scripts
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/automotive-diagnostics-f150-ecoboost.git](https://github.com/your-username/automotive-diagnostics-f150-ecoboost.git)
