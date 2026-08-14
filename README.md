@@ -6,18 +6,18 @@
 
 ---
 
-## 📌 Executive Overview
+##  Executive Overview
 This repository contains end-to-end diagnostic engineering studies, empirical telemetry parsing scripts, and factory-standard technical documentation. Field telemetry was gathered via high-speed multiplexed OBD-II/CAN bus logging (FORScan / OBDLink EX) at 10 Hz and processed through custom MATLAB analytical scripts.
 
-### 📄 Key Deliverables & Documentation
-* 📑 [**Download Master Engineering Portfolio (PDF)**](docs/Eliazar_Alvarez_Engineering_Portfolio.pdf)
-* 📘 [Case Study 1: Volumetric Efficiency & Boost Validation](docs/1_Project_VE_Validation.pdf)
-* ⚡ [Case Study 2: Open-Circuit Sensor Fault & Failsafe Mapping](docs/2_Project_Failsafe_Logic.pdf)
-* 📝 [Technical Service Bulletin #26-1041: CAC Thermal Saturation](docs/3_Project_TSB_HeatSoak.pdf)
+###  Key Deliverables & Documentation
+*  [**Download Master Engineering Portfolio (PDF)**](docs/Eliazar_Alvarez_Engineering_Portfolio.pdf)
+*  [Case Study 1: Volumetric Efficiency & Boost Validation](docs/1_Project_VE_Validation.pdf)
+*  [Case Study 2: Open-Circuit Sensor Fault & Failsafe Mapping](docs/2_Project_Failsafe_Logic.pdf)
+*  [Technical Service Bulletin #26-1041: CAC Thermal Saturation](docs/3_Project_TSB_HeatSoak.pdf)
 
 ---
 
-## 🚀 Projects Overview
+##  Projects Overview
 
 ### Project 1: Empirical Volumetric Efficiency (VE) & Boost Validation
 * **Objective:** Establish a high-load performance baseline by mapping absolute manifold pressure, engine load (VE proxy), and Port/Direct Injection (PFDI) utilization.
@@ -46,14 +46,14 @@ This repository contains end-to-end diagnostic engineering studies, empirical te
 
 ---
 
-## 🛠️ Toolchain & Software Architecture
+##  Toolchain & Software Architecture
 * **Telemetry & Hardware:** FORScan Diagnostics, OBDLink EX Multi-Protocol USB Interface (SAE J1979 / ISO 15031).
 * **Data Processing & Analytics:** MATLAB (Signal parsing, speed-density modeling, multi-channel time-series visualization).
 * **Documentation Standards:** SAE J2012 DTC format, 8D Root Cause Analysis (RCA), OEM Technical Manual Structure.
 
 ---
 
-## 💻 How to Run the MATLAB Scripts
+##  How to Run the MATLAB Scripts
 1. Clone this repository:
    ```bash
    git clone [https://github.com/your-username/automotive-diagnostics-f150-ecoboost.git](https://github.com/your-username/automotive-diagnostics-f150-ecoboost.git)
